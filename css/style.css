@@ -231,12 +231,12 @@ h1{
 footer
 {
 position: absolute;
-top: 1600px;
+top: 2200px;
 background: rgb(0, 0, 0);
-height:350px;
+height:0px;
 width: 100vw;
 font-family: cursive;
-padding: 40px;
+padding: 10px;
 }
 .footer-content
 {
