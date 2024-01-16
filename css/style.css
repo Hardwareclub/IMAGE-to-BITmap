@@ -232,7 +232,7 @@ position: absolute;
 bottom: auto ;
 background: rgb(0, 0, 0);
 height:0px;
-width: 100vw;
+width: -webkit-fill-available;
 font-family: cursive;
 padding: 10px;
 }
