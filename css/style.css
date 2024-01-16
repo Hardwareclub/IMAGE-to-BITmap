@@ -257,26 +257,3 @@ font-weight: 400;
 text-transform: uppercase;
 line-height: 3.5rem;
 }
-.foot_bottom
-{
-background: rgb(0, 0, 0);
-width: 100vw;
-padding: 5px;
-text-align: center;
-height: 50px;
-position: absolute;
-bottom: 10px;
-left: 0;
-}
-.foot_bottom p
-{
-font-size: 16px;
-word-spacing: 2px;
-text-transform: capitalize;
-}
-.foot_bottom span
-{
-text-transform: uppercase;
-opacity: .4;
-font-weight: 200;
-}
